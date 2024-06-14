@@ -4,7 +4,7 @@ def main():
 
 def square(n):
 
-    return pow(n,2)
+    return pow(n,3)
 
 
 
